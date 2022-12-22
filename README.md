@@ -10,3 +10,6 @@
 
 
 ![user_trips_by_gender_by_weekday](Resources/user_trips_by_gender_by_weekday.png)
+
+
+![trips_by_dif_age_by_gender](Resources/trips_by_dif_age_by_gender.png)
