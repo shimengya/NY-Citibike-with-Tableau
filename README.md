@@ -5,6 +5,7 @@
 
 ![checkout_times_by_gender](Resources/checkout_times_by_gender.png)
 
+
 ![trips_by_weekday_per_hour_by_gender](Resources/trips_by_weekday_per_hour_by_gender.png)
 
 ![trips_by_weekday_per_hour](Resources/trips_by_weekday_per_hour.png)
