@@ -3,12 +3,12 @@
 
 
 
-![checkout times by gender](Resources/checkout times by gender.png)
+![checkout_times_by_gender](Resources/checkout_times_by_gender.png)
 
-![checkout times for users](Resources/checkout times for users.png)
+![checkout_times_for_users](Resources/checkout_times_for_users.png)
 
-![trips by weekday per hour by gender](Resources/trips by weekday per hour by gender.png)
+![trips_by_weekday_per_hour_by_gender](Resources/trips_by_weekday_per_hour_by_gender.png)
 
-![trips by weekday per hour](Resources/trips by weekday per hour.png)
+![trips_by_weekday_per_hour](Resources/trips_by_weekday_per_hour.png)
 
-![user trips by gender by weekday](Resources/user trips by gender by weekday.png)
+![user_trips_by_gender_by_weekday](Resources/user_trips_by_gender_by_weekday.png)
