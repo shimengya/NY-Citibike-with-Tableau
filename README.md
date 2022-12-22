@@ -46,4 +46,4 @@ As discussed above, we can conclude that the goal customers of the Citi bikes ar
 ![usertypes_by_different_age](Resources/usertypes_by_different_age.png)
 
 - It's clearly shows that the checkout times for subscribers tend to more than customers. This is another sign that investors could acctact more subscribers to increase the utilize of bikes.
-![checkout_time _per_usertypes](Resources/checkout_time _per_usertypes.png)
+![checkout_time_per_usertypes](Resources/checkout_time _per_usertypes.png)
