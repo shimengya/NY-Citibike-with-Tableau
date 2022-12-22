@@ -40,5 +40,10 @@ For this analysis, I mainly get the help of Tableau. In the meanwhile, pandas al
 
 
 # Summary:
+As discussed above, we can conclude that the goal customers of the Citi bikes are people who need to go work and was born between 1985 (37 years old) to 1995 (27 years old). What's more, the Citi Bikes are most common to be used for short trip rutine around 5-6 min during workdays and expecially popular in 8am and 5-6pm. However, to convince investors about this program. It's significantly to analysis the royal of the users. Therefore, it additionally provide analyis on trips based on different usertypes as following.
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+- we can conclude per the graph below that people who were born between 1990 tend to subscribe to use the bikes and the investors could advertise promotions/discounts to attact more subscribers.
+![usertypes_by_different_age](Resources/usertypes_by_different_age.png)
+
+- It's clearly shows that the checkout times for subscribers tend to more than customers. This is another sign that investors could acctact more subscribers to increase the utilize of bikes.
+![checkout_time _per_usertypes](Resources/checkout_time _per_usertypes.png)
