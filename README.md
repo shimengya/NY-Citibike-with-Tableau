@@ -18,23 +18,23 @@ For this analysis, I mainly get the help of Tableau. In the meanwhile, pandas al
 ![checkout_times_by_gender](Resources/checkout_times_by_gender.png)
 
 
-2. Thursday is the most popular workday for the bikes and 8am and 5-6pm are popular time over a day. Per the timing, it is hilighly likely people who need to go to work are most main users.
+3. Thursday is the most popular workday for the bikes and 8am and 5-6pm are popular time over a day. Per the timing, it is hilighly likely people who need to go to work are most main users.
 ![trips_by_weekday_per_hour_by_gender](Resources/trips_by_weekday_per_hour_by_gender.png)
 
 
-3. Similar to the above, the popular workday and daytime are consistency between males and females.
+4. Similar to the above, the popular workday and daytime are consistency between males and females. Again, males tend to use more bikes than females. 
 ![user_trips_by_gender_by_weekday](Resources/user_trips_by_gender_by_weekday.png)
 
 
-4. Again, males tend to use more bikes than females. 
+5. Per the graph below, it seems people who were born between 1985 (37 years old ) to 1995 (27 years old ) make up the most users for the bikes in NYC. 
 ![trips_by_dif_age_by_gender](Resources/trips_by_dif_age_by_gender.png)
 
 
-5. This map give all the popular start stations with the different size of circles. It says most people start their trip from the middle town.
+6. This map give all the popular start stations with the different size of circles. It says most people start their trip from the middle town.
 ![start_station_map](Resources/start_station_map.png)
 
 
-6. This map give all the popular start stations with the different size of circles. It says most people start their trip from the middle town and down town.
+7. This map give all the popular start stations with the different size of circles. It says most people start their trip from the middle town and down town.
 ![end_station_map](Resources/end_station_map.png)
 
 
